@@ -22,3 +22,9 @@ $ npx eslint --init
 # Express インストール
 $ npm install express --save
 ```
+
+## 起動
+
+```shell
+$ node index.js
+```
