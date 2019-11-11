@@ -1,6 +1,7 @@
 {
   "name": "express-sample",
   "version": "1.0.0",
+  "private": true,
   "description": "Express Sample.",
   "main": "index.js",
   "scripts": {
